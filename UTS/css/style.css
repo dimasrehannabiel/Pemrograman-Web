@@ -1,0 +1,27 @@
+.navigasi {
+    list-style-type: none;
+}
+
+.navigasi li{
+    display: inline;
+}
+
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+fieldset{
+    background-color: #eeeeee;
+}
+
+legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+    font-weight: bold;
+  }
+
+.tombol{
+    background-color: #dfdbdb;
+}
