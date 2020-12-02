@@ -1,7 +1,7 @@
 <?php
     include ("connection.php");
 
-    if(isset($_POST['submit']))
+    if(isset($_POST['id_riwayat_pendidikan']))
     {
         $id_pendidikan = $_POST['id_riwayat_pendidikan'];
         $nama_pendidikan = $_POST['nama_pendidikan'];
